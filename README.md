@@ -4,11 +4,9 @@ This selection of Matlab scripts reads asc files of SR research result files, de
 
 
 ET_Data_Processing_Clear_Syllables.m
-
 Reads asc files of SR research result files, detects fixation periods from markers in the file, summarizes samples to fixation locations
 
 ET_Data_Processing_Clear_Syllables_Center_Fixes.m
-
 If presentation script includes occasional fixation control events (e.g. in the center of the screen) this scropt reads out the fixations of the control fixations.
 
 Correct_Data.m
