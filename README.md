@@ -19,4 +19,5 @@ Heat_Map_tot_per_sub.m
 Visualization of all trials (or separately over several experimental conditions) per subject as heat map
 
 Heat_Map_tot_over_sub.m
+
 Visualization of all trials (or separately over several experimental conditions) for the whole experiment as heat map
